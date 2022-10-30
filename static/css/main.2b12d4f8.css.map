@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.2b12d4f8.css","mappings":"AAAA,EACI,QAAU,CACV,SACJ,CACA,WACI,wBAA2B,CAC3B,UACJ","sources":["text.css"],"sourcesContent":["*{\r\n    margin: 0%;\r\n    padding: 0%;\r\n}\r\n.container{\r\n    background-color: lightcyan;\r\n    color: black;\r\n}\r\n"],"names":[],"sourceRoot":""}
